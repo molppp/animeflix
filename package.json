@@ -1,5 +1,5 @@
 {
-  "name": "animeflix",
+  "name": "ankey",
   "private": true,
   "workspaces": [
     "frontend",
