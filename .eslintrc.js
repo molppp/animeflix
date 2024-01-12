@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['animeflix'],
+  extends: ['Ankey'],
   settings: {
     next: {
       rootDir: ['frontend'],
