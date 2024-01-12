@@ -1,14 +1,14 @@
 {
-  "name": "Animeflix",
-  "short_name": "Animeflix",
+  "name": "Ankey",
+  "short_name": "Ankey",
   "icons": [
     {
-      "src": "/icons/android-chrome-192x192.png",
+      "src": "https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icons/android-chrome-512x512.png",
+      "src": "https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -22,7 +22,7 @@
   "description": "Watch anime shows, tv, movies for free without ads on your mobile, tablet, or pc",
   "screenshots": [
     {
-      "src": "/preview.png",
+      "src": "https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662",
       "type": "image/png",
       "sizes": "1073x532"
     }
