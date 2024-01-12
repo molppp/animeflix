@@ -2,11 +2,11 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="/icons/mstile-70x70.png"/>
-            <square144x144logo src="/icons/mstile-144x144.png"/>
-            <square150x150logo src="/icons/mstile-150x150.png"/>
-            <wide310x150logo src="/icons/mstile-310x150.png"/>
-            <square310x310logo src="/icons/mstile-310x310.png"/>
+            <square70x70logo src="https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662"/>
+            <square144x144logo src="https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662"/>
+            <square150x150logo src="https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662"/>
+            <wide310x150logo src="https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662"/>
+            <square310x310logo src="https://media.discordapp.net/attachments/1185582411245948998/1194964985391099914/New_Project_16_D6EA922.png?ex=65b244dd&is=659fcfdd&hm=fe4499d6ed4b43cd33013d2abcbff3a3208d0f552b82543c2e184be2f95b776a&=&format=webp&quality=lossless&width=1177&height=662"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
