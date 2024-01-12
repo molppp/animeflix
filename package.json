@@ -1,5 +1,5 @@
 {
-  "name": "ankey",
+  "name": "Ankey",
   "private": true,
   "workspaces": [
     "frontend",
